@@ -1,0 +1,33 @@
+.container {
+
+  /*
+  border: 2px solid black;
+  border-radius:25px;
+  height:1000px;
+  opacity:0%;
+  */
+  width:100%;
+}
+
+svg {
+
+  border: 2px solid black;
+  border-radius:25px;
+  color: black;
+  width:800px;
+  height:500px;
+  margin:25px 0;
+}
+
+.bars {
+  display: inline-block;
+  fill: grey;
+  /*
+  background-color: lightgrey;
+  border: 1px; solid grey;
+  */
+}
+
+.swapped {
+  fill: yellow;
+}
